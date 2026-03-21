@@ -124,14 +124,14 @@ pdfminer.six
 
 resume-rag-project
 
-backend-node
+backend node
  routes
  upload.js
  chat.js
  server.js
  uploads
 
-backend-python
+backend python
  rag_service.py
  parser.py
  requirements.txt
@@ -139,7 +139,7 @@ backend-python
 frontend
 React application for UI
 
-sample-data
+sample data
 Sample resumes and job descriptions for testing
 
 README.md
@@ -247,32 +247,17 @@ Start React app:
 
 npm start
 
-Frontend runs on:
-
-http://localhost:3000
-
 ---
 
 # Sample Files
 
 The repository includes sample files for testing:
 
-sample-data/
+sample_data/
 
 resume1.pdf
 resume2.pdf
 job_description.pdf
-
----
-
-# Demo
-
-The demo video shows:
-
-Upload Resume and Job Description
-Match score analysis
-Strengths and skill gap detection
-AI chat answering recruiter questions
 
 ---
 
